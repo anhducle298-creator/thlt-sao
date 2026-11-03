@@ -1,0 +1,376 @@
+{
+  "dataErrors": [],
+  "progression": {
+    "assumption": "100 cấp; mỗi cấp 2.000 phút hành động có ý nghĩa phân bổ đều, 2 XP rèn/phút, chia đều bốn chỉ số. Không mô phỏng nội dung tầng 4–100.",
+    "samples": 100,
+    "mean": {
+      "strength": 18.36,
+      "agility": 18.38,
+      "vitality": 18.29,
+      "intellect": 18.22
+    },
+    "min": 15,
+    "max": 20,
+    "cappedAtEnd": 74,
+    "earliestCap": 71,
+    "milestones": {
+      "10": {
+        "mean": 7.55,
+        "max": 10,
+        "min": 6
+      },
+      "25": {
+        "mean": 10.89,
+        "max": 15,
+        "min": 9
+      },
+      "50": {
+        "mean": 14.27,
+        "max": 18,
+        "min": 11
+      },
+      "75": {
+        "mean": 16.5,
+        "max": 20,
+        "min": 14
+      },
+      "100": {
+        "mean": 18.31,
+        "max": 20,
+        "min": 15
+      }
+    },
+    "examples": [
+      {
+        "level": 100,
+        "stats": {
+          "strength": 18,
+          "agility": 18,
+          "vitality": 16,
+          "intellect": 16
+        },
+        "capped": 0,
+        "firstCap": null
+      },
+      {
+        "level": 100,
+        "stats": {
+          "strength": 17,
+          "agility": 16,
+          "vitality": 17,
+          "intellect": 19
+        },
+        "capped": 0,
+        "firstCap": null
+      },
+      {
+        "level": 100,
+        "stats": {
+          "strength": 16,
+          "agility": 17,
+          "vitality": 19,
+          "intellect": 18
+        },
+        "capped": 0,
+        "firstCap": null
+      }
+    ]
+  },
+  "bossSnapshots": {
+    "assumption": "100 seed/tầng, cấp 2/4/6; bộ đồ cửa hàng theo tầng; 6 HP/4 MP/3 STA. Đây là ảnh chụp đã chuẩn bị, không thay thế playthrough tự nhiên.",
+    "results": [
+      {
+        "floor": 1,
+        "preparedWinRate": 100,
+        "noDefendWinRate": 57,
+        "meanMinutes": 5.14,
+        "examples": [
+          {
+            "floor": 1,
+            "level": 2,
+            "seed": 1,
+            "defend": true,
+            "win": true,
+            "minutes": 5,
+            "hp": 24,
+            "stats": {
+              "strength": 3,
+              "agility": 4,
+              "vitality": 5,
+              "intellect": 2
+            },
+            "consumed": {
+              "hp": 0,
+              "mp": 0,
+              "sta": 0
+            },
+            "enemyHp": 55
+          },
+          {
+            "floor": 1,
+            "level": 2,
+            "seed": 2,
+            "defend": true,
+            "win": true,
+            "minutes": 5,
+            "hp": 24,
+            "stats": {
+              "strength": 5,
+              "agility": 4,
+              "vitality": 3,
+              "intellect": 2
+            },
+            "consumed": {
+              "hp": 1,
+              "mp": 0,
+              "sta": 0
+            },
+            "enemyHp": 55
+          },
+          {
+            "floor": 1,
+            "level": 2,
+            "seed": 3,
+            "defend": true,
+            "win": true,
+            "minutes": 5,
+            "hp": 24,
+            "stats": {
+              "strength": 3,
+              "agility": 4,
+              "vitality": 3,
+              "intellect": 3
+            },
+            "consumed": {
+              "hp": 1,
+              "mp": 0,
+              "sta": 0
+            },
+            "enemyHp": 55
+          }
+        ]
+      },
+      {
+        "floor": 2,
+        "preparedWinRate": 100,
+        "noDefendWinRate": 100,
+        "meanMinutes": 8.5,
+        "examples": [
+          {
+            "floor": 2,
+            "level": 4,
+            "seed": 1,
+            "defend": true,
+            "win": true,
+            "minutes": 7,
+            "hp": 35,
+            "stats": {
+              "strength": 4,
+              "agility": 5,
+              "vitality": 5,
+              "intellect": 3
+            },
+            "consumed": {
+              "hp": 1,
+              "mp": 0,
+              "sta": 0
+            },
+            "enemyHp": 75
+          },
+          {
+            "floor": 2,
+            "level": 4,
+            "seed": 2,
+            "defend": true,
+            "win": true,
+            "minutes": 11,
+            "hp": 24,
+            "stats": {
+              "strength": 4,
+              "agility": 4,
+              "vitality": 3,
+              "intellect": 2
+            },
+            "consumed": {
+              "hp": 2,
+              "mp": 1,
+              "sta": 0
+            },
+            "enemyHp": 75
+          },
+          {
+            "floor": 2,
+            "level": 4,
+            "seed": 3,
+            "defend": true,
+            "win": true,
+            "minutes": 7,
+            "hp": 25,
+            "stats": {
+              "strength": 3,
+              "agility": 4,
+              "vitality": 4,
+              "intellect": 3
+            },
+            "consumed": {
+              "hp": 1,
+              "mp": 0,
+              "sta": 0
+            },
+            "enemyHp": 75
+          }
+        ]
+      },
+      {
+        "floor": 3,
+        "preparedWinRate": 100,
+        "noDefendWinRate": 91,
+        "meanMinutes": 8.03,
+        "examples": [
+          {
+            "floor": 3,
+            "level": 6,
+            "seed": 1,
+            "defend": true,
+            "win": true,
+            "minutes": 7,
+            "hp": 23,
+            "stats": {
+              "strength": 4,
+              "agility": 5,
+              "vitality": 5,
+              "intellect": 5
+            },
+            "consumed": {
+              "hp": 1,
+              "mp": 0,
+              "sta": 0
+            },
+            "enemyHp": 95
+          },
+          {
+            "floor": 3,
+            "level": 6,
+            "seed": 2,
+            "defend": true,
+            "win": true,
+            "minutes": 10,
+            "hp": 19,
+            "stats": {
+              "strength": 4,
+              "agility": 5,
+              "vitality": 4,
+              "intellect": 2
+            },
+            "consumed": {
+              "hp": 2,
+              "mp": 1,
+              "sta": 0
+            },
+            "enemyHp": 95
+          },
+          {
+            "floor": 3,
+            "level": 6,
+            "seed": 3,
+            "defend": true,
+            "win": true,
+            "minutes": 7,
+            "hp": 18,
+            "stats": {
+              "strength": 4,
+              "agility": 4,
+              "vitality": 4,
+              "intellect": 4
+            },
+            "consumed": {
+              "hp": 1,
+              "mp": 0,
+              "sta": 0
+            },
+            "enemyHp": 95
+          }
+        ]
+      }
+    ]
+  },
+  "farm": {
+    "assumption": "100 seed mới, Lùm tần bì, 180 phút hoặc 6 quái, không dừng ngay khi hết thuốc.",
+    "meanMinutes": 40.96,
+    "meanKills": 6,
+    "meanNetBeforeLootAndRepair": 21.22,
+    "meanNetAfterConsumablesAndRepair": 20.22,
+    "failures": 0,
+    "examples": [
+      {
+        "seed": 1,
+        "repairCost": 1,
+        "netAfterConsumablesAndRepair": 20,
+        "minutes": 41,
+        "kills": 6,
+        "earned": 45,
+        "potionCost": 24,
+        "netBeforeLootAndRepair": 21,
+        "consumed": {
+          "hp": 2,
+          "mp": 1,
+          "sta": 0
+        },
+        "baseStats": {
+          "strength": 4,
+          "agility": 4,
+          "vitality": 3,
+          "intellect": 2
+        },
+        "stop": "Đã đạt mục tiêu farm",
+        "failed": false
+      },
+      {
+        "seed": 2,
+        "repairCost": 1,
+        "netAfterConsumablesAndRepair": 21,
+        "minutes": 41,
+        "kills": 6,
+        "earned": 46,
+        "potionCost": 24,
+        "netBeforeLootAndRepair": 22,
+        "consumed": {
+          "hp": 2,
+          "mp": 1,
+          "sta": 0
+        },
+        "baseStats": {
+          "strength": 3,
+          "agility": 5,
+          "vitality": 4,
+          "intellect": 2
+        },
+        "stop": "Đã đạt mục tiêu farm",
+        "failed": false
+      },
+      {
+        "seed": 3,
+        "repairCost": 1,
+        "netAfterConsumablesAndRepair": 22,
+        "minutes": 41,
+        "kills": 6,
+        "earned": 47,
+        "potionCost": 24,
+        "netBeforeLootAndRepair": 23,
+        "consumed": {
+          "hp": 2,
+          "mp": 1,
+          "sta": 0
+        },
+        "baseStats": {
+          "strength": 3,
+          "agility": 4,
+          "vitality": 3,
+          "intellect": 2
+        },
+        "stop": "Đã đạt mục tiêu farm",
+        "failed": false
+      }
+    ]
+  }
+}

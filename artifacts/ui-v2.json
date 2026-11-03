@@ -1,0 +1,26 @@
+{
+  "browser": "Chromium",
+  "viewports": [
+    "1440x1150",
+    "390x844"
+  ],
+  "checks": [
+    "STA visible",
+    "debug absent by default",
+    "choice pause",
+    "2 travel ticks before pause and 2 after",
+    "inventory pause",
+    "hidden tab pause without catch-up",
+    "manual save",
+    "reload paused travel",
+    "training",
+    "12 skills with level gates",
+    "titles",
+    "safe farm rest and ETA",
+    "turn menu and 1 minute per round",
+    "responsive tabs",
+    "no overflow",
+    "no JS exceptions"
+  ],
+  "errors": []
+}

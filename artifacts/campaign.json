@@ -1,0 +1,86 @@
+[
+  {
+    "seed": 1,
+    "completed": true,
+    "failure": null,
+    "actions": 5579,
+    "minutes": 5456,
+    "level": 7,
+    "stats": {
+      "strength": 4,
+      "agility": 5,
+      "vitality": 4,
+      "intellect": 2
+    },
+    "gold": 418,
+    "trace": [
+      "Tầng 1: cấp 3, 1385 phút tích lũy, 182 đồng, boss đã vượt",
+      "Tầng 2: cấp 5, 3120 phút tích lũy, 229 đồng, boss đã vượt",
+      "Tầng 3: cấp 7, 5456 phút tích lũy, 418 đồng, boss đã vượt"
+    ],
+    "tail": [
+      "Bản thử nghiệm hoàn thành. Bạn vẫn có thể trở lại các tầng đã mở.",
+      "Hạ Kẻ Khâu Bình Minh: +350 XP. Không có thưởng khi đứng chờ.",
+      "Nhận Kiếm Nguyệt Tàn ×1.",
+      "Nhận Nanh thú Eidolon ×1.",
+      "Đã hoàn thành bản thử nghiệm: 3 tầng chơi được. Tầng 4–100 chưa phát hành; quyết định kết thúc chỉ dành cho tầng 100.",
+      "Nhận 200 đồng · hạ Kẻ Khâu Bình Minh."
+    ]
+  },
+  {
+    "seed": 17,
+    "completed": true,
+    "failure": null,
+    "actions": 5514,
+    "minutes": 5400,
+    "level": 7,
+    "stats": {
+      "strength": 3,
+      "agility": 5,
+      "vitality": 4,
+      "intellect": 4
+    },
+    "gold": 529,
+    "trace": [
+      "Tầng 1: cấp 3, 1389 phút tích lũy, 155 đồng, boss đã vượt",
+      "Tầng 2: cấp 5, 3115 phút tích lũy, 291 đồng, boss đã vượt",
+      "Tầng 3: cấp 7, 5400 phút tích lũy, 529 đồng, boss đã vượt"
+    ],
+    "tail": [
+      "Bản thử nghiệm hoàn thành. Bạn vẫn có thể trở lại các tầng đã mở.",
+      "Hạ Kẻ Khâu Bình Minh: +350 XP. Không có thưởng khi đứng chờ.",
+      "Nhận Kiếm Nguyệt Tàn ×1.",
+      "Nhận Nanh thú Eidolon ×1.",
+      "Đã hoàn thành bản thử nghiệm: 3 tầng chơi được. Tầng 4–100 chưa phát hành; quyết định kết thúc chỉ dành cho tầng 100.",
+      "Nhận 200 đồng · hạ Kẻ Khâu Bình Minh."
+    ]
+  },
+  {
+    "seed": 104729,
+    "completed": true,
+    "failure": null,
+    "actions": 4562,
+    "minutes": 4454,
+    "level": 7,
+    "stats": {
+      "strength": 6,
+      "agility": 4,
+      "vitality": 7,
+      "intellect": 4
+    },
+    "gold": 468,
+    "trace": [
+      "Tầng 1: cấp 3, 1393 phút tích lũy, 147 đồng, boss đã vượt",
+      "Tầng 2: cấp 5, 3116 phút tích lũy, 263 đồng, boss đã vượt",
+      "Tầng 3: cấp 7, 4454 phút tích lũy, 468 đồng, boss đã vượt"
+    ],
+    "tail": [
+      "Bản thử nghiệm hoàn thành. Bạn vẫn có thể trở lại các tầng đã mở.",
+      "Hạ Kẻ Khâu Bình Minh: +350 XP. Không có thưởng khi đứng chờ.",
+      "Nhận Kiếm Nguyệt Tàn ×1.",
+      "Nhận Vải bóng đêm ×1.",
+      "Nhận Thảo dược xám ×1.",
+      "Đã hoàn thành bản thử nghiệm: 3 tầng chơi được. Tầng 4–100 chưa phát hành; quyết định kết thúc chỉ dành cho tầng 100."
+    ]
+  }
+]

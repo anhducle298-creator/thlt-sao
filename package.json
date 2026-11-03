@@ -1,0 +1,32 @@
+{
+  "name": "sao-thaolt",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "test": "vitest run --pool=threads --maxWorkers=1 --minWorkers=1",
+    "simulate": "vite-node scripts/balance.ts",
+    "campaign": "vite-node scripts/campaign.ts",
+    "check:data": "vite-node scripts/check-data.ts"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "~5.6.3",
+    "vite": "^5.4.11",
+    "vitest": "^2.1.8",
+    "fake-indexeddb": "^6.0.0",
+    "vite-node": "^2.1.9"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
